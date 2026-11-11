@@ -4,15 +4,21 @@ Program do prowadzenia napraw, historii pojazdów, klientów, zakupów części 
 
 ## Pobieranie
 
-W sekcji [Releases](../../releases) wybierz instalator dla swojego systemu.
+W [najnowszym wydaniu](https://github.com/Krasaw4yk/garagexcel-mini/releases/latest) wybierz instalator dla swojego systemu.
 
-| System | Wersja | Tryby |
-| --- | --- | --- |
-| Windows 10/11 64-bit | 3.1.3 | SOLO, LAN, DEMO |
-| Windows 10 32-bit | 3.1.2 | SOLO, LAN, DEMO |
-| Windows XP SP3 32-bit | 3.1.4 | SOLO, DEMO |
+| System | Tryby |
+| --- | --- |
+| Windows 10/11 64-bit | SOLO, LAN, DEMO |
+| Windows 10 32-bit | SOLO, LAN, DEMO |
+| Windows XP SP3 32-bit | SOLO, DEMO |
 
 Windows 10 wymaga wersji 2004 lub nowszej. Instalator XP uruchom z prostej ścieżki, np. C:/GARAGEXCEL_XP. Zalecana rozdzielczość na XP to co najmniej 1024×768.
+
+## Aktualizacje
+
+Od wersji 3.2.0 program sprawdza nowe wydanie przy uruchomieniu. Możesz też użyć przycisku **Ustawienia → Sprawdź aktualizacje**. Program proponuje pobranie instalatora dla Twojej edycji. Uruchamiasz go samodzielnie po zamknięciu programu.
+
+**Sprawdzanie i pobieranie aktualizacji wymaga internetu. Program działa również offline.** Jeśli starszy Windows nie łączy się z GitHubem, pobierz instalator na innym urządzeniu i przenieś go np. na pendrivie. Z wersji sprzed 3.2.0 zaktualizuj program ręcznie. Instalacja nowszej wersji tej samej edycji zachowuje dane i aktywację.
 
 ## DEMO i licencja
 
